@@ -88,4 +88,74 @@ No dia 12 de dezembro Wladislaw viu o oficial pela última vez, tinha trago mais
 #####  Pós escrito
 Algumas semanas depois enquanto um dos colegas da rádio de Wladislaw: Zygmunt Lednicki enquanto voltava em direção a Varsóvia após ajudar nos levantes, praguejava para alguns alemães presos em um campo que antes era usado para prender poloneses, um dos prisioneiros perguntou se ele conhecia Szpilman e disse que tinha ajudado ele a sobreviver mas então foi cortado por um dos guardas que estavam lá, mas Zygmunt perguntou para ele seu nome mas não conseguiu ouvir o que ele respondeu. Quando Wladi ficou sabendo fez de tudo para conseguiu achar o seu rastro mas aqueles prisioneiros foram transferidos para outro lugar, que não divulgado na época.
 
-Diários de Win house
+##### Fragmentos do diário do capitão Wilm Hosefeld
+==Wilm Hosenfeld foi o alemão que salvou Wladislaw Szpilman==. Nesses fragmentos do diário observamos um homem alemão que registra o que pensa da Alemanha e das ações que os alemães tomam com os povos que eles subjugaram. Irei colocar algumas frases desses fragmentos que ele escreveu, que mais me importam.
+
+> "Os nazistas ligam-se, por um lado, as elites financeiras e industrias e apoiam o capitalismo - e, por outro lado, promovem o socialismo. Propagam o direito de opinião, individualidade e da liberdade religiosa, ao mesmo tempo, destroem as igrejas católicas e travam com elas uma surda batalha"
+> \ - Wilm Hosefeld(18/01/1942)
+
+> "Também no passado quando os países eram mais cristões...a situação era bem parecida com a de hoje, quando nos afastamos do cristianismo. Tudo leva a crer que a humanidade está condenada a fazer mais mal do que bem. O amor ao próximo é um dos maiores ideias sobre a terra "
+> \ - Wilm Hosefeld - Tomaszów(26/06/1942)
+
+> "Se for verdade o que estão revelando..., não pode haver qualquer dignidade em ser um oficial alemão e não honra em participar de tudo isto que está acontecendo. É difícil de acreditar"
+> \ -   Wilm Hosefeld - Tomaszów(26/06/1942)
+
+> "Tudo começou com os Bolcheviques assassinaram milhões de pessoas no mundo com o objetivo de estabelecer uma nova ordem no mundo. Isto somente foi possível por eles terem se afastado de Deus e dos ensinamentos cristãos e os nazistas estão trilhando o mesmo caminho"
+> \ - Wilm Hosefeld - (01/09/1942)
+
+> "Essa guerra perdeu todo o sentido de conquistas territoriais e se transformou num incontrolável e desumano assassinato de pessoas que jamais será justificado perante a nação alemã e será julgado severamente pelo resto do mundo"
+> \ -  Wilm Hosefeld - (14/02/1943)
+
+> "Tenho vergonha de sair a rua. Todo polonês tem o direito de cuspir no meu rosto"
+> \ -  Wilm Hosefeld - (16/06/1943)
+
+
+##### Epílogo: Uma ponte entre Wladislaw Szpilman e Wilm Hosenfeld por Wolf Biermann
+Nesse trecho Wolf Biermann escreve um pouco sobre algumas "curiosidades" do livro e da guerra e de como Wladi soube de Wilm, alguns trechos mais importantes irei destacar aqui
+
+>"Wladislaw Szpilman, desejava que um coisa ficasse clara(com esse epílogo): o livro havia sido escrito em Varsóvia, logo depois da guerra, portanto num momento em que o autor ainda se encontrava sob grande emoção, ou melhor, num estado de profundo choque"
+>\- Wolf Biermann
+
+>"A linguagem usada por Wladislaw Szpilman é, surpreende mente serena. O autor descreveu tudo por que acabara de passar com um distanciamento quase melancólico. Tenho a impressão  que ele ainda não gabia voltado a si totalmente depois das viagem por círculos infernais e relata os fatos como se tivessem sido presenciados por outra pessoa. por alguém em que ele havia transformado quando a Polônia foi ocupada pelos alemães"
+>\- Wolf Biermann
+
+>"Hosenfeld, era um professor alemão que lutou a primeira guerra e estava velho demais para a segunda então foi destacado para dirigir um centro de atividades esportivas em Varsóvia, o capitão foi aprisionado nos últimos dias da guerra e faleceu na Rússia sete anos depois"
+>\- Wolf Biermann
+
+1- 
+>"O livro de Wladi foi publicado na Polônia em 1946, sob o título de um dos capítulos: Smierc Miasta- A morte de uma cidade, mas logo foi tirado de circulação por causa das verdades desconfortáveis que ele trazia mas também pela ajuda que um oficial alemão prestou e isso não podia ser tolerado."
+>\- Wolf Biermann
+
+3 -
+>"Dos 3,5 milhões de judeus poloneses, sobreviveram somente  240 mil"
+>\- Wolf Biermann
+
+11
+>"Encontramos frequente descrições de um fenômeno que atormenta os que se salvaram do gueto e dos campos: eles sofrem uma vergonha paralisante pelo fato de terem sido poupados. Montes de corpos - de amigos, familiares, dos próprios filhos, quase todo um povo - pesam sobre seus ombros"
+>\- Wolf Biermann
+
+==15==
+>"==O autor desconhece o sentimento de vingança==. Em Varsóvia em uma turnê, sentado junto ao piano desafinado , virou-se pra mim e disse uma frase meio irônica e meio séria:
+>	-Quando jovem estudei música em Berlim por dois anos, não consigo atinar com o que aconteceu com os alemães... eles sempre foram tão musicais"
+>\- Wolf Biermann
+
+21
+>"O capitão Wilm Hosenfeld morreu em um campo de prisioneiros de guerra perto de Stalingrado, um ano antes da morte de Stalin, ele era torturado severamente, pois os oficiais não acreditavam nas suas historias de salvamento de judeus. Por causa das agressões passou os últimos dos dias vegetando sem entender por que estava sendo torturado. Morreu na condição de completa ruína psíquica"
+>\- Wolf Biermann
+
+>"Hosenfeld havia contrabandeado seu diário nas últimas férias que passou na Alemanha mas a última entrada no diário de Hosenfeld é de 11 de agosto de 1944, ou seja havia enviado sensacionais anotações para casa por intermédio do correio militar. Os cadernos foram guardados zelosamente pela família apenas alguns de seus fragmentos figuram no livro."
+>\- Wolf Biermann
+
+
+24
+>"Depois da guerra Szpilman voltou a tocar na Polskie, durante o primeiro programa transmitido ao vivo pela emissora em Varsóvia, ele tocou a música que havia tocado uma hora antes de as bombas alemães destruírem a estação em 1939, parece que o repertório chopiniano com "Noturno em dó maior fora interrompido para que Hitler pudesse em um breve intervalo de seis anos, representar o seu papel durante o interlúdio no teatro do mundo."
+>\- Wolf Biermann
+
+26
+>"A senhora Hosenfeld disse que seu marido ainda estava vivo e lhe enviava cartas, foi numa dessas que reconheceram o sobrenome de Szpilman em junho de 1946 que continha uma lista de judeus que havia salvado e então entraram em contato com Wladislaw"
+>\- Wolf Biermann
+
+30
+>"Wladislaw Szpilman violinista enquanto faziam um turnê na Alemanha Ocidental decidiram fazer uma visita a família de de Wilm em Thalau. A senhora Annemarie Hosenfeld presenteou Szpilman com a ==fotografia do seu marido que pode ser vista na capa deste livro.== "
+>\- Wolf Biermann
+

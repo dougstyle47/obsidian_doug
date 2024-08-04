@@ -1,6 +1,5 @@
 
 ## Aula 1 - Boas Vindas
-
 Método CPV
 - Conhecimento
 - Prática
@@ -12,16 +11,13 @@ Metodologia Científica
 - Experimentação
 - Conclusão(Hipótese validade ou refutada)
 ## Aula 5 - Certificação
-
 Proposta do projeto(Qualquer assunto relacionado ao baixo nível)
 Justificativa Técnica
 
 ## Aula 6 - Hexadecimal
-
 Essa parte foi feita 24 questões relacionados a Hexadecimal, o que eu não entendi ainda foi a parte das operações entre decimais
 
 ## Aula 7 - Tipos de computadores
-
 - 1 - Computadores Descartáveis([[RFID]])
 	###### Alguns cartões que você pode colocar videos ou mensagens, tem um chip programável com poucas funções
 	
@@ -35,5 +31,10 @@ Essa parte foi feita 24 questões relacionados a Hexadecimal, o que eu não ente
 	Muitas empresas ainda utilizam grandes computadores para rodar seus serviços
 	
 
-## Aula 8 - 
+## Aula 8 - História dos processadores x86
+
+Nessa aula foi contada a história do começo da Intel uma marca de processadores(de chips) que começou a atuar por volta da década 1960 e que mantém sua hegemonia no mercado com a linha de processadores i3, i5, i7. Entretanto começou fazendo chips para calculadores com a linha 4004(de 4 bits) considerado o primeiro microprocessador disponível comercial e o 8008, primeiro microprocessador de 8 bits da Intel. Após tentarem patentear os números e falharem começaram a trazer os com nome como o Pentium e Celerom até culminar na linhas i3,5,7,9.
+
+
+## Aula 9 - História dos processadores ARM
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
+                "file": "6 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
+                "file": "6 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
+                "file": "6 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md"
+                "file": "6 - Livros/Wladyslaw Szpilman - O pianista(1946).md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,35 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c36d22c8957687e9",
+  "active": "de37ecba95ae27b1",
   "lastOpenFiles": [
-    "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
-    "5 - Main/Impressora matricial.md",
-    "4 - Index Main/impressoras.md",
-    "4 - Index Main/dispositivos.md",
-    "4 - Index Main/arquitetura de computadores.md",
-    "5 - Main/algoritmo.md",
-    "5 - Main/algoritmo de busca linear.md",
-    "5 - Main/big O.md",
+    "5 - Cursos/Kernelzera - Lab.md",
+    "8 - Main/Criando VM no QEMU(kali).md",
+    "6 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
+    "1 - Imagens",
+    "1 - Aleatorio/Untitled",
+    "8 - Main/Impressora matricial.md",
+    "7 - Index Main/impressoras.md",
+    "7 - Index Main/dispositivos.md",
+    "7 - Index Main/arquitetura de computadores.md",
+    "8 - Main/algoritmo.md",
+    "8 - Main/algoritmo de busca linear.md",
+    "8 - Main/big O.md",
     "5 - Main/bem 10.md",
-    "5 - Main/processos.md",
-    "7 - Faculdade/Untitled.md",
-    "1 - Aleatorio/0 - Expressões.md",
+    "8 - Main/processos.md",
+    "2 - Faculdade/Untitled.md",
+    "3 - Aleatorio/0 - Expressões.md",
     "Motivacional.md",
-    "7 - Faculdade/Final - Estrutura de dados 3(C++).md",
-    "7 - Faculdade/Final - Programação Orientada a Objetos(Csharp).md",
-    "7 - Faculdade/Gerenciamento de processos nos Sistemas Operacionais.md",
-    "7 - Faculdade/POO.md",
-    "7 - Faculdade/POO(note).md",
-    "7 - Faculdade/Sistemas Operacinais.md",
-    "7 - Faculdade/SO.md",
-    "1 - Aleatorio/1 - Aleátorio Index.md",
-    "6 - Cursos/Curso C++ - Code Beauty.md",
+    "2 - Faculdade/Final - Estrutura de dados 3(C++).md",
+    "2 - Faculdade/Final - Programação Orientada a Objetos(Csharp).md",
+    "2 - Faculdade/Gerenciamento de processos nos Sistemas Operacionais.md",
+    "2 - Faculdade/POO.md",
+    "2 - Faculdade/POO(note).md",
+    "2 - Faculdade/Sistemas Operacinais.md",
+    "2 - Faculdade/SO.md",
+    "3 - Aleatorio/1 - Aleátorio Index.md",
+    "5 - Cursos/Curso C++ - Code Beauty.md",
     "WhatsApp Ptt 2024-07-30 at 22.44.46.ogg",
     "0 - Template/Full Note.md",
-    "2 - Concurso/Semana 28.md",
-    "2 - Concurso/0 - Index.md",
-    "1 - Aleatorio/mes_3.md",
+    "4 - Concurso/Semana 28.md",
     "WhatsApp Ptt 2024-07-30 at 23.05.36.ogg",
     "WhatsApp Ptt 2024-07-30 at 23.05.36.ogg.crdownload",
     "WhatsApp Ptt 2024-07-30 at 22.44.46.ogg.crdownload",
@@ -190,8 +192,6 @@
     "Não confirmado 39566.crdownload",
     "Não confirmado 647051.crdownload",
     "4 - Main/Arquitetura de Computadores",
-    "Cursos/Cisco1",
-    "4 - Index Main",
     "Pasted image 20231209183634.png",
     "Pasted image 20231209183529.png",
     "0imagens/Pasted image 20231127164110.png"
