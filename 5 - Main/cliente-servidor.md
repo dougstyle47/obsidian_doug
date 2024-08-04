@@ -1,0 +1,3 @@
+#inicial 
+A Arquitetura cliente servidor é uma arquitetura de aplicação distribuída. Na rede existem os fornecedores de recursos ou serviços de rede, que são chamados de [[servidor]](res), e existem os requerentes dos recursos de serviços chamados de clientes.
+O cliente não compartilha nenhum de seus recursos com o servidor, mas no entanto ele solicita alguma função do servidor, sendo ele, o cliente, **responsável por iniciar a comunicação com o servidor**, enquanto o mesmo aguarda requisições de entrada.

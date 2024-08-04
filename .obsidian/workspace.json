@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "852f8f8f259468f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d017d0d0c89cbde5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8d6bdb7ca6bd946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main/Impressora matricial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "915627df3d63c3fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f521fedf84aedf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de37ecba95ae27b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb18e29c49fe8869",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag: #inicial  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93b311db6b331f6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "right": {
+    "id": "fb8f6f754aa4ddd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "45fdd57941305733",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ff389126b5c754",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 - Main/Impressora matricial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c36d22c8957687e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Main/Impressora matricial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22feba2352a51756",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5b0fa06be354085",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Main/Impressora matricial.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de37ecba95ae27b1",
+  "lastOpenFiles": [
+    "4 - Index Main/impressoras.md",
+    "4 - Index Main/dispositivos.md",
+    "4 - Index Main/arquitetura de computadores.md",
+    "5 - Main/algoritmo.md",
+    "5 - Main/algoritmo de busca linear.md",
+    "5 - Main/big O.md",
+    "5 - Main/bem 10.md",
+    "5 - Main/processos.md",
+    "7 - Faculdade/Untitled.md",
+    "1 - Aleatorio/0 - Expressões.md",
+    "Motivacional.md",
+    "7 - Faculdade/Final - Estrutura de dados 3(C++).md",
+    "7 - Faculdade/Final - Programação Orientada a Objetos(Csharp).md",
+    "7 - Faculdade/Gerenciamento de processos nos Sistemas Operacionais.md",
+    "7 - Faculdade/POO.md",
+    "7 - Faculdade/POO(note).md",
+    "7 - Faculdade/Sistemas Operacinais.md",
+    "7 - Faculdade/SO.md",
+    "1 - Aleatorio/1 - Aleátorio Index.md",
+    "6 - Cursos/Curso C++ - Code Beauty.md",
+    "WhatsApp Ptt 2024-07-30 at 22.44.46.ogg",
+    "0 - Template/Full Note.md",
+    "2 - Concurso/Semana 28.md",
+    "2 - Concurso/0 - Index.md",
+    "1 - Aleatorio/mes_3.md",
+    "1 - Aleatorio/mes_5.md",
+    "1 - Aleatorio/mes_4.md",
+    "WhatsApp Ptt 2024-07-30 at 23.05.36.ogg",
+    "WhatsApp Ptt 2024-07-30 at 23.05.36.ogg.crdownload",
+    "WhatsApp Ptt 2024-07-30 at 22.44.46.ogg.crdownload",
+    "Não confirmado 797068.crdownload",
+    "Não confirmado 39566.crdownload",
+    "Não confirmado 647051.crdownload",
+    "4 - Main/Arquitetura de Computadores",
+    "Cursos/Cisco1",
+    "4 - Index Main",
+    "Pasted image 20231209183634.png",
+    "Pasted image 20231209183529.png",
+    "0imagens/Pasted image 20231127164110.png"
+  ]
+}
