@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main/Impressora matricial.md",
+                "file": "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Main/Impressora matricial.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Main/Impressora matricial.md",
+                "file": "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main/Impressora matricial.md"
+                "file": "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md"
               }
+            }
+          },
+          {
+            "id": "37639ae3996243c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de37ecba95ae27b1",
+  "active": "c36d22c8957687e9",
   "lastOpenFiles": [
+    "3 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
+    "5 - Main/Impressora matricial.md",
     "4 - Index Main/impressoras.md",
     "4 - Index Main/dispositivos.md",
     "4 - Index Main/arquitetura de computadores.md",
@@ -174,8 +183,6 @@
     "2 - Concurso/Semana 28.md",
     "2 - Concurso/0 - Index.md",
     "1 - Aleatorio/mes_3.md",
-    "1 - Aleatorio/mes_5.md",
-    "1 - Aleatorio/mes_4.md",
     "WhatsApp Ptt 2024-07-30 at 23.05.36.ogg",
     "WhatsApp Ptt 2024-07-30 at 23.05.36.ogg.crdownload",
     "WhatsApp Ptt 2024-07-30 at 22.44.46.ogg.crdownload",

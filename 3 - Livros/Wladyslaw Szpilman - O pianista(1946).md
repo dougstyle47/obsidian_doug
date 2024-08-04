@@ -88,4 +88,4 @@ No dia 12 de dezembro Wladislaw viu o oficial pela última vez, tinha trago mais
 #####  Pós escrito
 Algumas semanas depois enquanto um dos colegas da rádio de Wladislaw: Zygmunt Lednicki enquanto voltava em direção a Varsóvia após ajudar nos levantes, praguejava para alguns alemães presos em um campo que antes era usado para prender poloneses, um dos prisioneiros perguntou se ele conhecia Szpilman e disse que tinha ajudado ele a sobreviver mas então foi cortado por um dos guardas que estavam lá, mas Zygmunt perguntou para ele seu nome mas não conseguiu ouvir o que ele respondeu. Quando Wladi ficou sabendo fez de tudo para conseguiu achar o seu rastro mas aqueles prisioneiros foram transferidos para outro lugar, que não divulgado na época.
 
-
+Diários de Win house
