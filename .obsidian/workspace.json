@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Concurso/0 - Index.md",
+                "file": "8 - Main/Problema para sincronizar Git com o GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Concurso/0 - Index.md",
+                "file": "8 - Main/Problema para sincronizar Git com o GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Concurso/0 - Index.md",
+                "file": "8 - Main/Problema para sincronizar Git com o GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Concurso/0 - Index.md"
+                "file": "8 - Main/Problema para sincronizar Git com o GitHub.md"
               }
             }
           }
@@ -147,5 +147,39 @@
     }
   },
   "active": "3edb16b8102f1c40",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Motivacional.md",
+    "8 - Main/shell.md",
+    "8 - Main/servidor.md",
+    "8 - Main/Save do Stardew Valley.md",
+    "8 - Main/processos.md",
+    "8 - Main/ponteiros.md",
+    "8 - Main/Impressora matricial.md",
+    "8 - Main/csharp.md",
+    "8 - Main/Criando VM no QEMU(kali).md",
+    "8 - Main/compilar em c++.md",
+    "8 - Main/cliente-servidor.md",
+    "8 - Main/c++.md",
+    "8 - Main/big O.md",
+    "8 - Main/algoritmo.md",
+    "8 - Main/algoritmo de busca linear.md",
+    "7 - Index Main/impressoras.md",
+    "7 - Index Main/dispositivos.md",
+    "7 - Index Main/arquitetura de computadores.md",
+    "7 - Index Main",
+    "6 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
+    "6 - Livros/Hábitos Atômicos.md",
+    "6 - Livros/Suzanne Collins - Em chamas(2009).md",
+    "6 - Livros/J. R. R. Tolkien - As Duas Torres(1954).md",
+    "6 - Livros/Suzanne Collins -  A esperança(2010).md",
+    "6 - Livros/Daniel Romero - (cc)Começando com linux(2014).md",
+    "6 - Livros/Aditya Y.Bhargava - Entendendo Algoritmos (2017).md",
+    "6 - Livros/0 - Livros Index.md",
+    "6 - Livros",
+    "5 - Cursos",
+    "4 - Concurso",
+    "3 - Aleatorio",
+    "2 - Faculdade",
+    "0 - Template"
+  ]
 }
