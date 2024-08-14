@@ -15,13 +15,11 @@ Aparentemente de uns anos para cá não é possível mais fazer um `git push` co
  3- Com o Token gerado ir no repositório do computador e setar no repositório esse comando(`git remote ser-url origin https://<tokie>@github.com/<username>/<repositorio>.git`)
  
 ```git
-git remote set-url origin https://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@github.com/dougstyle47/citacoes.git
+git remote set-url origin https://<tokie>@github.com/dougstyle47/citacoes.git
 ```
 
 4 - Tentar fazer o `git push origin master`
 	O comando `git push origin main` por algum motivo não funciona
-
-
 
 # Observações
 
