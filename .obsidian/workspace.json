@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 - Main/Problema para sincronizar Git com o GitHub.md",
+                "file": "3 - Aleatorio/mes_3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - Main/Problema para sincronizar Git com o GitHub.md",
+                "file": "3 - Aleatorio/mes_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - Main/Problema para sincronizar Git com o GitHub.md",
+                "file": "3 - Aleatorio/mes_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - Main/Problema para sincronizar Git com o GitHub.md"
+                "file": "3 - Aleatorio/mes_3.md"
               }
             }
           }
@@ -146,8 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3edb16b8102f1c40",
+  "active": "fc6db4ee475bf4f5",
   "lastOpenFiles": [
+    "3 - Aleatorio/mes_5.md",
+    "3 - Aleatorio/mes_3.md",
+    "3 - Aleatorio/mes_4.md",
+    "5 - Cursos/Kernelzera - Lab.md",
+    "5 - Cursos/Introdução ao Pentest na Prática - Desec Academy.md",
+    "5 - Cursos/Curso C++ - Code Beauty.md",
+    "5 - Cursos/Curso C++ - Alura.md",
+    "2 - Faculdade/Gerenciamento de processos nos Sistemas Operacionais.md",
+    "2 - Faculdade/Untitled.md",
+    "2 - Faculdade/Final - Programação Orientada a Objetos(Csharp).md",
+    "2 - Faculdade/Final - Estrutura de dados 3(C++).md",
+    "5 - Cursos/Curso CSharp - CFBCURSOS.md",
+    "5 - Cursos/Lógica de programação(Javascript) - DIO.md",
+    "8 - Main/Problema para sincronizar Git com o GitHub.md",
     "Motivacional.md",
     "8 - Main/shell.md",
     "8 - Main/servidor.md",
@@ -160,21 +174,7 @@
     "8 - Main/compilar em c++.md",
     "8 - Main/cliente-servidor.md",
     "8 - Main/c++.md",
-    "8 - Main/big O.md",
-    "8 - Main/algoritmo.md",
-    "8 - Main/algoritmo de busca linear.md",
-    "7 - Index Main/impressoras.md",
-    "7 - Index Main/dispositivos.md",
-    "7 - Index Main/arquitetura de computadores.md",
     "7 - Index Main",
-    "6 - Livros/Wladyslaw Szpilman - O pianista(1946).md",
-    "6 - Livros/Hábitos Atômicos.md",
-    "6 - Livros/Suzanne Collins - Em chamas(2009).md",
-    "6 - Livros/J. R. R. Tolkien - As Duas Torres(1954).md",
-    "6 - Livros/Suzanne Collins -  A esperança(2010).md",
-    "6 - Livros/Daniel Romero - (cc)Começando com linux(2014).md",
-    "6 - Livros/Aditya Y.Bhargava - Entendendo Algoritmos (2017).md",
-    "6 - Livros/0 - Livros Index.md",
     "6 - Livros",
     "5 - Cursos",
     "4 - Concurso",
